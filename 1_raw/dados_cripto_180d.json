@@ -4,14 +4,14 @@
             "code": "BTC",
             "codein": "BRL",
             "name": "Bitcoin/Real Brasileiro",
-            "high": "599000",
+            "high": "600175",
             "low": "591450",
-            "varBid": "6263",
-            "pctChange": "1.057",
-            "bid": "598840",
-            "ask": "598841",
-            "timestamp": "1749402194",
-            "create_date": "2025-06-08 14:03:14"
+            "varBid": "4911",
+            "pctChange": "0.825",
+            "bid": "600089",
+            "ask": "600090",
+            "timestamp": "1749406859",
+            "create_date": "2025-06-08 15:20:59"
         },
         {
             "high": "595999",
@@ -1632,12 +1632,12 @@
             "name": "Ethereum/Real Brasileiro",
             "high": "14304.1",
             "low": "14025.7",
-            "varBid": "91.01",
-            "pctChange": "0.644",
-            "bid": "14223.8",
-            "ask": "14223.8",
-            "timestamp": "1749401242",
-            "create_date": "2025-06-08 13:47:22"
+            "varBid": "119.08",
+            "pctChange": "0.84",
+            "bid": "14292.8",
+            "ask": "14292.8",
+            "timestamp": "1749406854",
+            "create_date": "2025-06-08 15:20:54"
         },
         {
             "high": "14304.1",
@@ -3258,12 +3258,12 @@
             "name": "Litecoin/Real Brasileiro",
             "high": "500.1",
             "low": "487.4",
-            "varBid": "-2.6",
-            "pctChange": "-0.52",
-            "bid": "497",
-            "ask": "497.1",
-            "timestamp": "1749401190",
-            "create_date": "2025-06-08 13:46:30"
+            "varBid": "0",
+            "pctChange": "0",
+            "bid": "497.4",
+            "ask": "497.6",
+            "timestamp": "1749406830",
+            "create_date": "2025-06-08 15:20:30"
         },
         {
             "high": "501.9",
@@ -4884,12 +4884,12 @@
             "name": "XRP/Real Brasileiro",
             "high": "12.925",
             "low": "12.193",
-            "varBid": "0.584",
-            "pctChange": "4.765",
-            "bid": "12.833",
-            "ask": "12.848",
-            "timestamp": "1749401242",
-            "create_date": "2025-06-08 13:47:22"
+            "varBid": "0.597",
+            "pctChange": "4.871",
+            "bid": "12.842",
+            "ask": "12.843",
+            "timestamp": "1749400308",
+            "create_date": "2025-06-08 13:31:48"
         },
         {
             "high": "12.322",
@@ -6510,12 +6510,12 @@
             "name": "Dogecoin/Real Brasileiro",
             "high": "1.0484",
             "low": "1.0155",
-            "varBid": "0.0076",
-            "pctChange": "0.735",
-            "bid": "1.0415",
-            "ask": "1.0423",
-            "timestamp": "1749401244",
-            "create_date": "2025-06-08 13:47:24"
+            "varBid": "0.0096",
+            "pctChange": "0.928",
+            "bid": "1.0459",
+            "ask": "1.0463",
+            "timestamp": "1749402220",
+            "create_date": "2025-06-08 14:03:40"
         },
         {
             "high": "1.0605",
@@ -8134,14 +8134,14 @@
             "code": "SOL",
             "codein": "BRL",
             "name": "Solana/Real Brasileiro",
-            "high": "857.3",
+            "high": "860.9",
             "low": "832.4",
-            "varBid": "9.4",
-            "pctChange": "1.11",
-            "bid": "856.1",
-            "ask": "856.2",
-            "timestamp": "1749401247",
-            "create_date": "2025-06-08 13:47:27"
+            "varBid": "11.1",
+            "pctChange": "1.306",
+            "bid": "860.6",
+            "ask": "860.7",
+            "timestamp": "1749402209",
+            "create_date": "2025-06-08 14:03:29"
         },
         {
             "high": "857.3",
